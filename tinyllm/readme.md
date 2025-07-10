@@ -16,6 +16,8 @@
   
 </div>
 
+[![](https://raw.githubusercontent.com/SwanHubX/assets/main/badge1.svg)](https://swanlab.cn/@sss313/TinyStories/overview)
+
 📚 Reference & Acknowledgments
 This project is built upon the excellent work of:
 
