@@ -4,9 +4,9 @@
 👋 Hi there! I'm a Class of 2026 female developer diving into LLMs from scratch. Yes, the odds feel stacked, but we're turning those buffs into superpowers!
 
 ## 🌱 Current Status
-• Absolute beginner in LLMs 
-• Building this repo brick by brick
-• Documenting every stumble and breakthrough
+  - Absolute beginner in LLMs 
+  - Building this repo brick by brick
+  - Documenting every stumble and breakthrough
 
 ## 🎯 Goals
 Understand LLM fundamentals through hands-on projects
