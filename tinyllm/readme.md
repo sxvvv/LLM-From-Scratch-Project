@@ -1,7 +1,5 @@
 # TinyLLM 🚀
 
-​​A Minimalist LLM Implementation with Practical Optimizations​​
-
 <div align="center">
   
 ### **Technical Environment**
